@@ -16,4 +16,7 @@ It then predicts the best **(X, Y)** position for the furniture.
 
 ---
 
+## Project Link
+https://colab.research.google.com/drive/1sFN3KLARKpBjIJXOHjjNoRjOPCh6Ud6s?usp=sharing
+
 
