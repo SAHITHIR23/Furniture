@@ -1,10 +1,10 @@
 # AI-Powered Furniture Placement Predictor
 
-🚀 **AI model for structured 2D layout generation** that predicts the optimal position (X, Y) for furniture placement in a given room.
+ **AI model for structured 2D layout generation** that predicts the optimal position (X, Y) for furniture placement in a given room.
 
 ---
 
-## 🌟 Overview
+## Overview
 This project uses **TensorFlow, Gradio, and Google Colab** to create an interactive AI-based **furniture placement predictor**.
 
 The model takes three inputs:
